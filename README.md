@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @theAbhijayChauhan
 - 👀 I’m interested in ...Data Science 
-- 🌱 I’m currently learning ...Python
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning everything
+- 💞️ I’m not looking to collaborate
 - 📫 How to reach me ...abhijaychauhan98@gmail.com 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Nothing Right Now !
 
 <!---
 theAbhijayChauhan/theAbhijayChauhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
