@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhijay Chauhan</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java !**
 
 - 👯 I’m looking to collaborate on **Python and Java Projects**
 
