@@ -3,7 +3,6 @@
 
 - 🌱 I’m currently learning **Java !!**
 
-
 - 👯 I’m looking to collaborate on **Python and Java Projects**
 
 - 📫 How to reach me **abhijaychauhan88@gmail.com**
