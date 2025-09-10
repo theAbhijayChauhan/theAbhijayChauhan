@@ -29,7 +29,7 @@ Python • C • SQL • Java • GitHub • Jupyter • VS Code • IntelliJ �
 
 ---
 
-### 🐍 Snake Animation (Coolest Part!)  
+### 🐍 Snake Animation 
 ![snake gif](https://github.com/abhijaychauhan/abhijaychauhan/blob/output/github-contribution-grid-snake.svg)
 
 ---
