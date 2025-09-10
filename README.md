@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abhijay Chauhan</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/wave.gif" width="30px">, I'm Abhijay Chauhan</h1>
 <h3 align="center">Aspiring Data Scientist & Machine Learning Engineer</h3>
 
 ---
@@ -17,7 +17,7 @@ Python • C • SQL • Java • GitHub • Jupyter • VS Code • IntelliJ �
 ### 📊 GitHub Analytics  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abhijaychauhan&show_icons=true&theme=radical" alt="stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijaychauhan&layout=compact&theme=radical" alt="langs" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijaychauhan&layout=compact&theme=radical&hide=javascript,html,css" alt="langs" height="180"/>
 </p>
 
 ---
@@ -29,8 +29,8 @@ Python • C • SQL • Java • GitHub • Jupyter • VS Code • IntelliJ �
 
 ---
 
-### 🚀 Contribution Graph  
-[![Abhijay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abhijaychauhan&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+### 🐍 Snake Animation (Coolest Part!)  
+![snake gif](https://github.com/abhijaychauhan/abhijaychauhan/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
