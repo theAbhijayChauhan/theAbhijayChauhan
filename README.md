@@ -10,7 +10,7 @@
 - 🎓 B.Tech CSE (Cloud Computing & ML)  
 - 🧑‍💻 Exploring **Data Science + Cloud**  
 - ⚡ Currently diving into **Java, Python, and ML**  
-- 🌱 Building my way to become a **Full Stack Data Scientist**  
+- 🌱 Building my way to become a **Full Stack Data Scientist !**  
 
 ---
 
