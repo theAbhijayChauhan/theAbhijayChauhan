@@ -32,15 +32,19 @@
 
 ### 📈 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijaychauhan&layout=compact&theme=radical" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijaychauhan&layout=compact&theme=radical&hide=javascript,css,html" alt="Top Languages" height="160"/>
 </p>
 
 ---
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/abhijaychauhan"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
-  <a href="mailto:YOUR-EMAIL"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>
+  <a href="https://www.linkedin.com/in/abhijaychauhan" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
+  </a>
+  <a href="mailto:YOUR-EMAIL" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40"/>
+  </a>
 </p>
 
 ---
