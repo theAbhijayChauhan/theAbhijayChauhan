@@ -17,7 +17,7 @@
 
 ### ⚡ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,mysql,github,html,css,aws&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,pandas,numpy,github,html,css&perline=6" />
 </p>
 
 ---
@@ -25,14 +25,21 @@
 ### 📊 GitHub Stats & Streak
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abhijaychauhan&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhijaychauhan&theme=radical" alt="GitHub Streak" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=abhijaychauhan&theme=radical&hide_border=false" alt="GitHub Streak" height="160"/>
+</p>
+
+---
+
+### 📈 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijaychauhan&layout=compact&theme=radical" alt="Top Languages" height="160"/>
 </p>
 
 ---
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
+  <a href="https://www.linkedin.com/in/abhijaychauhan"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
   <a href="mailto:YOUR-EMAIL"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>
 </p>
 
