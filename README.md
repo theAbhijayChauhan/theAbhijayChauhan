@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Aspiring+Full+Stack+Data+Scientist;Python+%7C+Java+%7C+C;Cloud+%26+Machine+Learning+Explorer;Always+Learning+%F0%9F%92%AA" alt="Typing Animation" />
 </p>
 
-
+---
 ---
 
 ### 🚀 About Me
