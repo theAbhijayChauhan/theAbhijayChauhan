@@ -14,7 +14,7 @@
 - 🌱 Building my way to become a **Full Stack Data Scientist !**  
 
 ---
-
+----
 ### ⚡ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,c,pandas,numpy,github,html,css&perline=6" />
