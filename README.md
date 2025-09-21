@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=B.Tech+CS+Student+%7C+Cloud+%26+ML+Specialization;Aspiring+Data+Scientist+%26+ML+Engineer;Focused+%7C+Patient+%7C+Giving+My+Best;Tech+Explorer+%7C+Football+Lover+%7C+Henry+Cavill+Fan" alt="Typing SVG" />
 </p>
 
----
+---------------------------------
 
 ### 🚀 About Me  
 - 🎓 Pursuing **B.Tech in Computer Science** (Cloud Computing & Machine Learning) at **BBD** – 2nd Year, 4th Semester  
