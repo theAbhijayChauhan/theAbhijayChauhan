@@ -43,4 +43,4 @@
 ---
 
 ### ✨ Quote I Follow  
-*"Patience and focus are my strengths; I give my best in everything I do."*  
+*"Patience and focus are my strengths; I give my best in everything I do & and I am also working on everything !"*  
