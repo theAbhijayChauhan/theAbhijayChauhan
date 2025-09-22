@@ -8,7 +8,7 @@
 
 ### 🚀 About Me  
 - 🎓 Pursuing **B.Tech in Computer Science** (Cloud Computing & Machine Learning) at **BBD** – 2nd Year, 4th Semester  
-- 🏫 10th: **89% (Colvin Taluqdars' College)** | 12th: **70% (St. Joseph Montessori School)**  
+- 🏫 10th: **88% (Colvin Taluqdars' College)** | 12th: **70% (St. Joseph Montessori School)**  
 - 💻 Skilled in **Python, IBM SPSS Modeler, Cloud Computing, Data Science, Machine Learning**  
 - 🌱 Currently learning **DevOps, APIs, and Data Structures & Algorithms**  
 - 🎯 Career Goal: To become a **Data Scientist & ML Engineer** at top tech companies  
