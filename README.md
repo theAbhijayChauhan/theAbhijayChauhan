@@ -14,7 +14,7 @@
 - 🎯 Career Goal: To become a **Data Scientist & ML Engineer** at top tech companies  
 - ⚡ Interests: Football, Smartphones & Gadgets, Tech Trends, and **Henry Cavill**  
 
----
+-------------
 
 ### 🛠️ Languages & Tools I Use  
 <p align="center">
