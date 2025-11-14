@@ -14,14 +14,15 @@
 
 > BTech CSE | Cloud Computing + Machine Learning | 3rd Year, 6th Semester
 
-I'm an aspiring **Data Scientist** and **Machine Learning Engineer** passionate about leveraging cutting-edge technology to solve real-world problems. Currently targeting roles at top tech companies with **12+ LPA** packages.
+I'm an aspiring **Data Scientist** and **Machine Learning Engineer** passionate about leveraging cutting-edge technology to solve real-world problems. 
+<!-- Currently targeting roles at top tech companies with **12+ LPA** packages. -->
 
 - 🔭 I'm currently working on **ML & Cloud Projects**
 - 🌱 I'm currently learning **Advanced ML Algorithms & DevOps**
 - 💪 Powered by **Henry Cavill-like motivation**
 - 🌱 Runs on **plant-based fuel**
 - 📱 Collecting **gadgets and knowledge**
-- 👑 **Boss of Everything** (in progress)
+<!--- 👑 **Boss of Everything** (in progress)-->
 
 ---
 
@@ -98,7 +99,7 @@ I'm an aspiring **Data Scientist** and **Machine Learning Engineer** passionate 
 
 ```text
 🎯 Target: Data Scientist @ Top Tech Companies
-💰 Package Goal: 12+ LPA
+<!--💰 Package Goal: 12+ LPA-->
 📈 Current Focus: Advanced ML & Cloud Architecture
 🔥 Learning: System Design & DevOps Fundamentals
 ```
@@ -144,7 +145,7 @@ I'm an aspiring **Data Scientist** and **Machine Learning Engineer** passionate 
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
   
   ### 🎵 Currently Vibing To
-  [![Spotify](https://novatorem-abhijaychauhan.vercel.app/api/spotify)](https://open.spotify.com/user/yourusername)
+ <!-- [![Spotify](https://novatorem-abhijaychauhan.vercel.app/api/spotify)](https://open.spotify.com/user/yourusername)-->
   
 </div>
 
@@ -152,7 +153,7 @@ I'm an aspiring **Data Scientist** and **Machine Learning Engineer** passionate 
 
 <div align="center">
   
-  ![Snake animation](https://github.com/abhijaychauhan/abhijaychauhan/blob/output/github-contribution-grid-snake.svg)
+ <!-- ![Snake animation](https://github.com/abhijaychauhan/abhijaychauhan/blob/output/github-contribution-grid-snake.svg)-->
   
   <br>
   
