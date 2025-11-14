@@ -15,14 +15,12 @@
 > BTech CSE | Cloud Computing + Machine Learning | 3rd Year, 6th Semester
 
 I'm an aspiring **Data Scientist** and **Machine Learning Engineer** passionate about leveraging cutting-edge technology to solve real-world problems. 
-<!-- Currently targeting roles at top tech companies with **12+ LPA** packages. -->
 
 - 🔭 I'm currently working on **ML & Cloud Projects**
 - 🌱 I'm currently learning **Advanced ML Algorithms & DevOps**
 - 💪 Powered by **Henry Cavill-like motivation**
 - 🌱 Runs on **plant-based fuel**
 - 📱 Collecting **gadgets and knowledge**
-<!--- 👑 **Boss of Everything** (in progress)-->
 
 ---
 
@@ -99,7 +97,6 @@ I'm an aspiring **Data Scientist** and **Machine Learning Engineer** passionate 
 
 ```text
 🎯 Target: Data Scientist @ Top Tech Companies
-<!--💰 Package Goal: 12+ LPA-->
 📈 Current Focus: Advanced ML & Cloud Architecture
 🔥 Learning: System Design & DevOps Fundamentals
 ```
