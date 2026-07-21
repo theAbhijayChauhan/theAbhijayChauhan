@@ -1,161 +1,154 @@
-# 👨‍💻 Abhijay Chauhan
-
-<div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Data+Scientist+in+Progress;Machine+Learning+Enthusiast;Cloud+Computing+Specialist;Python+Developer;Gadget+Lover;Boss+of+Everything)
-
-  <img src="https://komarev.com/ghpvc/?username=abhijaychauhan&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  
-</div>
-
----
-
-## 🚀 About Me
-
-> BTech CSE | Cloud Computing + Machine Learning | 3rd Year, 6th Semester
-
-I'm an aspiring **Data Scientist** and **Machine Learning Engineer** passionate about leveraging cutting-edge technology to solve real-world problems. 
-
-- 🔭 I'm currently working on **ML & Cloud Projects**
-- 🌱 I'm currently learning **Advanced ML Algorithms & DevOps**
-- 💪 Powered by **Henry Cavill-like motivation**
-- 🌱 Runs on **plant-based fuel**
-- 📱 Collecting **gadgets and knowledge**
-
----
-
-## ⚡ Tech Stack
-
 <div align="center">
 
-### Languages & Tools
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:8A2BE2&height=220&section=header&text=Abhijay%20Chauhan&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Aspiring%20DevOps%20Engineer%20%7C%20Cloud%20%26%20Automation&descAlignY=58&descAlign=50" width="100%"/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00C9A7&center=true&vCenter=true&width=650&lines=Building+CI%2FCD+Pipelines;Cloud+Infrastructure+%26+Automation;Python+%2B+DevOps+Tooling;Docker+%2B+Kubernetes+Enthusiast;Always+Shipping+%F0%9F%9A%80" alt="Typing SVG" />
 
-### Cloud & DevOps
+<br><br>
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### Data Science Tools
-
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![IBM SPSS](https://img.shields.io/badge/IBM%20SPSS-054ADA?style=for-the-badge&logo=ibm&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+<img src="https://komarev.com/ghpvc/?username=<username>&label=Profile%20Views&color=8A2BE2&style=for-the-badge" alt="profile views" />
+<img src="https://img.shields.io/github/followers/<username>?label=Followers&style=for-the-badge&color=00C9A7" alt="followers"/>
 
 </div>
 
----
+<br>
+
+## ✨ About Me
+
+```yaml
+name: Abhijay Chauhan
+degree: BTech CSE — Cloud Computing + Machine Learning (3rd Year, 6th Sem)
+target_role: DevOps Engineer
+building_now: CI/CD pipelines & cloud-deployed ML projects
+learning_now: [Kubernetes, Terraform, System Design]
+hobby: collecting gadgets & knowledge 📱
+```
+
+<br>
+
+## 🧰 Tech Arsenal
+
+<div align="center">
+
+**Core & Scripting**
+<br>
+<img src="https://skillicons.dev/icons?i=python,html,css,bash&theme=dark" />
+
+<br><br>
+
+**DevOps & Cloud**
+<br>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,terraform,aws,gcp,linux&theme=dark" />
+
+<br><br>
+
+**ML & Data**
+<br>
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pandas,numpy,jupyter&theme=dark" />
+
+</div>
+
+<br>
 
 ## 🎯 Featured Projects
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🕵️ **Fake News Detection** | ML-powered system to identify and classify fake news articles using NLP | Python, NLP, Scikit-learn |
-| 🎤 **Personal Voice Assistant** | Custom voice-activated assistant for task automation | Python, Speech Recognition |
-| ☁️ **Cloud + ML Integration** | Academic projects combining cloud services with ML models | AWS, Python, TensorFlow |
-| 🔮 **Python Automation Scripts** | Various automation and data analysis tools | Python, Pandas, APIs |
+### ☁️ Cloud + ML Integration
+Academic project deploying trained ML models through cloud infrastructure.
 
-</div>
+`AWS` `Python` `TensorFlow`
 
----
+</td>
+<td width="50%" valign="top">
 
-## 📊 GitHub Stats
+### 🕵️ Fake News Detection
+NLP-based classifier to identify fake news articles.
 
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=abhijaychauhan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF" alt="GitHub Stats" height="170"/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhijaychauhan&theme=radical&hide_border=true&background=0D1117&stroke=FFD700&ring=FFD700&fire=FFD700&currStreakLabel=FFD700" alt="GitHub Streak" height="170"/>
+`Python` `NLP` `Scikit-learn`
 
-</div>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijaychauhan&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=FFFFFF" alt="Top Languages" height="170"/>
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhijaychauhan&theme=react-dark&hide_border=true&bg_color=0D1117&color=FFD700&line=FFD700&point=FFFFFF" alt="Contribution Graph" width="100%"/>
+### 🎤 Personal Voice Assistant
+Voice-activated assistant for task automation.
 
-</div>
+`Python` `Speech Recognition`
 
----
+</td>
+<td width="50%" valign="top">
 
-## 🏆 Achievements & Goals
+### 🔮 Automation Scripts
+A toolbox of scripting utilities for repetitive workflows.
 
-<div align="center">
+`Python` `Bash` `APIs`
 
-```text
-🎯 Target: Data Scientist @ Top Tech Companies
-📈 Current Focus: Advanced ML & Cloud Architecture
-🔥 Learning: System Design & DevOps Fundamentals
-```
+</td>
+</tr>
+</table>
 
-</div>
+<br>
 
----
-
-## 💡 My Philosophy
+## 📊 GitHub Analytics
 
 <div align="center">
 
-> *"Learning today, leading tomorrow"*
+<img src="https://github-stats-extended.vercel.app/api?username=<username>&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C9A7&icon_color=8A2BE2&text_color=FFFFFF&count_private=true" alt="GitHub Stats" height="180"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=<username>&theme=radical&hide_border=true&background=0D1117&stroke=00C9A7&ring=8A2BE2&fire=00C9A7&currStreakLabel=00C9A7" alt="GitHub Streak" height="180"/>
 
-### 🌟 What Drives Me
-
-```
-🧠 Continuous Learning  →  📊 Data-Driven Decisions  →  🚀 Innovation
-        ↓                           ↓                         ↓
-   Stay Curious             Solve Problems            Build Impact
-```
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=<username>&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C9A7&text_color=FFFFFF" alt="Top Languages" height="180"/>
 
 </div>
 
----
+> These cards run on `github-stats-extended` — the actively maintained successor to the old github-readme-stats project, which stopped keeping its public instance reliable. If a card ever looks blank, it's almost always a shared-server rate limit and clears up in a few minutes.
 
-## 🤝 Connect With Me
+### 🏆 Trophy Case
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhijaychauhan)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+<img src="https://github-profile-trophy.vercel.app/?username=<username>&theme=radical&no-frame=true&column=7&margin-w=8&margin-h=8" alt="trophies"/>
 
 </div>
 
----
+### 📈 Contribution Activity
 
 <div align="center">
-  
-  ### 💭 Random Dev Quote
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-  
-  ### 🎵 Currently Vibing To
- <!-- [![Spotify](https://novatorem-abhijaychauhan.vercel.app/api/spotify)](https://open.spotify.com/user/yourusername)-->
-  
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=<username>&theme=react-dark&hide_border=true&bg_color=0D1117&color=00C9A7&line=8A2BE2&point=FFFFFF" alt="Contribution Graph" width="95%"/>
+
 </div>
 
----
+<br>
+
+## 🎯 Current Focus
 
 <div align="center">
-  
- <!-- ![Snake animation](https://github.com/abhijaychauhan/abhijaychauhan/blob/output/github-contribution-grid-snake.svg)-->
-  
-  <br>
-  
-  **⭐️ From [Abhijay Chauhan](https://github.com/abhijaychauhan) with 💛**
-  
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
+| 🎯 Target | 📈 Focus | 🔥 Learning |
+|:---:|:---:|:---:|
+| DevOps Engineer role | Cloud Infrastructure & Automation | Kubernetes, Terraform, CI/CD |
 
 </div>
+
+<br>
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/<username>"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="42" height="42" alt="LinkedIn"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/<username>"><img src="https://cdn.simpleicons.org/github/FFFFFF" width="42" height="42" alt="GitHub"/></a>&nbsp;&nbsp;&nbsp;
+<a href="mailto:<username>@example.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="42" height="42" alt="Email"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/<username>"><img src="https://cdn.simpleicons.org/x/FFFFFF" width="42" height="42" alt="X"/></a>
+
+<sub>LinkedIn · GitHub · Email · X</sub>
+
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00C9A7&height=120&section=footer" width="100%"/>
