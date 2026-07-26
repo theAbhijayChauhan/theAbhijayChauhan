@@ -26,7 +26,7 @@ hobby: collecting gadgets & knowledge 📱
 
 <br>
 
-## 🧰 Tech Arsenal
+## 🧰 Tech Arsenal.
 
 <div align="center">
 
