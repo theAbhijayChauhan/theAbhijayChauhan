@@ -77,7 +77,7 @@ NLP-based classifier to identify fake news articles.
 ### 🎤 Personal Voice Assistant
 Voice-activated assistant for task automation.
 
-`Python` `Speech Recognition`
+`Python` `Speech Recognition....`
 
 </td>
 <td width="50%" valign="top">
