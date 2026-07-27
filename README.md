@@ -16,12 +16,12 @@
 ## ✨ About Me
 
 ```yaml
-name: Abhijay Chauhan
-degree: BTech CSE — Cloud Computing + Machine Learning (3rd Year, 6th Sem)
-target_role: DevOps Engineer
-building_now: CI/CD pipelines & cloud-deployed ML projects
-learning_now: [Kubernetes, Terraform, System Design]
-hobby: collecting gadgets & knowledge 📱
+Name: Abhijay Chauhan
+Degree: BTech CSE — Cloud Computing + Machine Learning (3rd Year, 6th Sem)
+Target_role: DevOps Engineer
+Building_now: CI/CD pipelines & cloud-deployed ML projects
+Learning_now: [Kubernetes, Terraform, System Design]
+Hobby: collecting gadgets & knowledge 📱
 ```
 
 <br>
