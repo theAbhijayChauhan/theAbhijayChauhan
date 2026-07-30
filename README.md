@@ -10,6 +10,7 @@
 <img src="https://komarev.com/ghpvc/?username=<username>&label=Profile%20Views&color=8A2BE2&style=for-the-badge" alt="profile views" />
 <img src="https://img.shields.io/github/followers/<username>?label=Followers&style=for-the-badge&color=00C9A7" alt="followers"/>
 
+
 </div>
 
 <br>
