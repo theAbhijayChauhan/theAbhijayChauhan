@@ -1,5 +1,6 @@
 <div align="center">
 
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:8A2BE2&height=220&section=header&text=Abhijay%20Chauhan&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Aspiring%20DevOps%20Engineer%20%7C%20Cloud%20%26%20Automation&descAlignY=58&descAlign=50" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00C9A7&center=true&vCenter=true&width=650&lines=Building+CI%2FCD+Pipelines;Cloud+Infrastructure+%26+Automation;Python+%2B+DevOps+Tooling;Docker+%2B+Kubernetes+Enthusiast;Always+Shipping+%F0%9F%9A%80" alt="Typing SVG" />
