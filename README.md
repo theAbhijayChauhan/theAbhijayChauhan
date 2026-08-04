@@ -3,7 +3,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--   DARK GLOWING HEADER — black bg + teal name + twinkling      -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0A0A1A,100:000000&height=240&section=header&text=Abhijay%20Chauhan&fontSize=62&fontColor=00C9A7&animation=twinkling&fontAlignY=38&desc=Aspiring%20DevOps%20Engineer%20%7C%20Cloud%20%26%20Automation&descAlignY=58&descAlign=50&descSize=20&descColor=7FFFD4" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:000000,50:0A0A1A,100:000000&amp;height=240&amp;section=header&amp;text=Abhijay%20Chauhan&amp;fontSize=62&amp;fontColor=00C9A7&amp;animation=twinkling&amp;fontAlignY=38&amp;desc=Aspiring%20DevOps%20Engineer%20%7C%20Cloud%20%26%20Automation&amp;descAlignY=58&amp;descAlign=50&amp;descSize=20&amp;descColor=7FFFD4" width="100%"/>
 
 </div>
 
@@ -42,18 +42,18 @@ AbhijayChauhan / README.md
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--   TYPING SVG — FIXED: > encoded as %3E, no XML parse errors   -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=700&color=00C9A7&center=true&vCenter=true&width=720&lines=Shipping+CI%2FCD+Pipelines+to+Production;Cloud+Infrastructure+%26+Automation+Wizard;Docker+%2B+Kubernetes+Enthusiast;Python+%2B+DevOps+Tooling+Craftsman;Clean+Pipelines+%3E+Manual+Ops;AWS+%7C+GCP+%7C+Jenkins+%7C+Terraform" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=22&amp;duration=2000&amp;pause=700&amp;color=00C9A7&amp;center=true&amp;vCenter=true&amp;width=720&amp;lines=Shipping+CI%2FCD+Pipelines+to+Production;Cloud+Infrastructure+%26+Automation+Wizard;Docker+%2B+Kubernetes+Enthusiast;Python+%2B+DevOps+Tooling+Craftsman;Clean+Pipelines+%3E+Manual+Ops;AWS+%7C+GCP+%7C+Jenkins+%7C+Terraform" alt="Typing SVG" />
 
 <br><br>
 
 <!-- STATUS BADGES -->
-<img src="https://img.shields.io/badge/Target-DevOps%20Engineer-00C9A7?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Target-DevOps%20Engineer-00C9A7?style=for-the-badge&amp;labelColor=0D1117" />
 &nbsp;
-<img src="https://img.shields.io/badge/Status-Open%20to%20Work-8A2BE2?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-8A2BE2?style=for-the-badge&amp;labelColor=0D1117" />
 &nbsp;
-<img src="https://img.shields.io/badge/Location-India-FF6B6B?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Location-India-FF6B6B?style=for-the-badge&amp;labelColor=0D1117" />
 &nbsp;
-<img src="https://img.shields.io/badge/Building-CI%2FCD%20%2B%20Cloud%20ML-00C9A7?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Building-CI%2FCD%20%2B%20Cloud%20ML-00C9A7?style=for-the-badge&amp;labelColor=0D1117" />
 
 </div>
 
@@ -64,7 +64,7 @@ AbhijayChauhan / README.md
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00C9A7&fontSize=30&fontAlignY=50&height=70&text=%E2%9C%A8%20About%20Me&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&amp;fontColor=00C9A7&amp;fontSize=30&amp;fontAlignY=50&amp;height=70&amp;text=%E2%9C%A8%20About%20Me&amp;animation=twinkling" />
 </div>
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" align="left" />
@@ -85,7 +85,7 @@ Hobby:        collecting gadgets & knowledge
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00C9A7&fontSize=30&fontAlignY=50&height=70&text=%F0%9F%A7%B0%20Tech%20Arsenal&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&amp;fontColor=00C9A7&amp;fontSize=30&amp;fontAlignY=50&amp;height=70&amp;text=%F0%9F%A7%B0%20Tech%20Arsenal&amp;animation=twinkling" />
 </div>
 
 <div align="center">
@@ -94,32 +94,32 @@ Hobby:        collecting gadgets & knowledge
 
 **Core & Scripting**
 
-<a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="52" title="Python"/></a>&nbsp;&nbsp;
-<a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash&theme=dark" width="52" title="Bash"/></a>&nbsp;&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="52" title="HTML"/></a>&nbsp;&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="52" title="CSS"/></a>
+<a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python&amp;theme=dark" width="52" title="Python"/></a>&nbsp;&nbsp;
+<a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash&amp;theme=dark" width="52" title="Bash"/></a>&nbsp;&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html&amp;theme=dark" width="52" title="HTML"/></a>&nbsp;&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css&amp;theme=dark" width="52" title="CSS"/></a>
 
 <br><br>
 
 **DevOps & Cloud**
 
-<a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="52" title="Docker"/></a>&nbsp;&nbsp;
-<a href="https://kubernetes.io"><img src="https://skillicons.dev/icons?i=k8s&theme=dark" width="52" title="Kubernetes"/></a>&nbsp;&nbsp;
-<a href="https://www.jenkins.io"><img src="https://skillicons.dev/icons?i=jenkins&theme=dark" width="52" title="Jenkins"/></a>&nbsp;&nbsp;
-<a href="https://github.com/features/actions"><img src="https://skillicons.dev/icons?i=githubactions&theme=dark" width="52" title="GitHub Actions"/></a>&nbsp;&nbsp;
-<a href="https://www.terraform.io"><img src="https://skillicons.dev/icons?i=terraform&theme=dark" width="52" title="Terraform"/></a>&nbsp;&nbsp;
-<a href="https://aws.amazon.com"><img src="https://skillicons.dev/icons?i=aws&theme=dark" width="52" title="AWS"/></a>&nbsp;&nbsp;
-<a href="https://cloud.google.com"><img src="https://skillicons.dev/icons?i=gcp&theme=dark" width="52" title="GCP"/></a>&nbsp;&nbsp;
-<a href="https://www.linux.org"><img src="https://skillicons.dev/icons?i=linux&theme=dark" width="52" title="Linux"/></a>
+<a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker&amp;theme=dark" width="52" title="Docker"/></a>&nbsp;&nbsp;
+<a href="https://kubernetes.io"><img src="https://skillicons.dev/icons?i=k8s&amp;theme=dark" width="52" title="Kubernetes"/></a>&nbsp;&nbsp;
+<a href="https://www.jenkins.io"><img src="https://skillicons.dev/icons?i=jenkins&amp;theme=dark" width="52" title="Jenkins"/></a>&nbsp;&nbsp;
+<a href="https://github.com/features/actions"><img src="https://skillicons.dev/icons?i=githubactions&amp;theme=dark" width="52" title="GitHub Actions"/></a>&nbsp;&nbsp;
+<a href="https://www.terraform.io"><img src="https://skillicons.dev/icons?i=terraform&amp;theme=dark" width="52" title="Terraform"/></a>&nbsp;&nbsp;
+<a href="https://aws.amazon.com"><img src="https://skillicons.dev/icons?i=aws&amp;theme=dark" width="52" title="AWS"/></a>&nbsp;&nbsp;
+<a href="https://cloud.google.com"><img src="https://skillicons.dev/icons?i=gcp&amp;theme=dark" width="52" title="GCP"/></a>&nbsp;&nbsp;
+<a href="https://www.linux.org"><img src="https://skillicons.dev/icons?i=linux&amp;theme=dark" width="52" title="Linux"/></a>
 
 <br><br>
 
 **Tools & Workflow**
 
-<a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="52" title="Git"/></a>&nbsp;&nbsp;
-<a href="https://github.com"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="52" title="GitHub"/></a>&nbsp;&nbsp;
-<a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="52" title="VS Code"/></a>&nbsp;&nbsp;
-<a href="https://www.postman.com"><img src="https://skillicons.dev/icons?i=postman&theme=dark" width="52" title="Postman"/></a>
+<a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git&amp;theme=dark" width="52" title="Git"/></a>&nbsp;&nbsp;
+<a href="https://github.com"><img src="https://skillicons.dev/icons?i=github&amp;theme=dark" width="52" title="GitHub"/></a>&nbsp;&nbsp;
+<a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode&amp;theme=dark" width="52" title="VS Code"/></a>&nbsp;&nbsp;
+<a href="https://www.postman.com"><img src="https://skillicons.dev/icons?i=postman&amp;theme=dark" width="52" title="Postman"/></a>
 
 <br>
 
@@ -132,25 +132,25 @@ Hobby:        collecting gadgets & knowledge
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00C9A7&fontSize=30&fontAlignY=50&height=70&text=%F0%9F%93%8A%20GitHub%20Analytics&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&amp;fontColor=00C9A7&amp;fontSize=30&amp;fontAlignY=50&amp;height=70&amp;text=%F0%9F%93%8A%20GitHub%20Analytics&amp;animation=twinkling" />
 </div>
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=theAbhijayChauhan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C9A7&icon_color=8A2BE2&text_color=FFFFFF&count_private=true&rank_icon=github&border_radius=12&hide=prs,issues,contribs" alt="GitHub Stats" height="185"/>
+<img src="https://github-stats-extended.vercel.app/api?username=theAbhijayChauhan&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00C9A7&amp;icon_color=8A2BE2&amp;text_color=FFFFFF&amp;count_private=true&amp;rank_icon=github&amp;border_radius=12&amp;hide=prs,issues,contribs" alt="GitHub Stats" height="185"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=theAbhijayChauhan&theme=radical&hide_border=true&background=0D1117&stroke=8A2BE2&ring=00C9A7&fire=FF6B6B&currStreakLabel=00C9A7&sideLabels=FFFFFF&dates=AAAAAA&sideNums=8A2BE2&border_radius=12" alt="GitHub Streak" height="185"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=theAbhijayChauhan&amp;theme=radical&amp;hide_border=true&amp;background=0D1117&amp;stroke=8A2BE2&amp;ring=00C9A7&amp;fire=FF6B6B&amp;currStreakLabel=00C9A7&amp;sideLabels=FFFFFF&amp;dates=AAAAAA&amp;sideNums=8A2BE2&amp;border_radius=12" alt="GitHub Streak" height="185"/>
 
 <br><br>
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=theAbhijayChauhan&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C9A7&text_color=FFFFFF&langs_count=8&border_radius=12" alt="Top Languages" height="185"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=theAbhijayChauhan&amp;layout=compact&amp;theme=radical&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00C9A7&amp;text_color=FFFFFF&amp;langs_count=8&amp;border_radius=12" alt="Top Languages" height="185"/>
 
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=8A2BE2&fontSize=20&fontAlignY=50&height=50&text=%F0%9F%90%8D%20Contribution%20Snake&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&amp;fontColor=8A2BE2&amp;fontSize=20&amp;fontAlignY=50&amp;height=50&amp;text=%F0%9F%90%8D%20Contribution%20Snake&amp;animation=twinkling" />
 </div>
 
 <div align="center">
@@ -168,7 +168,7 @@ Hobby:        collecting gadgets & knowledge
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00C9A7&fontSize=30&fontAlignY=50&height=70&text=%F0%9F%8E%AF%20Featured%20Projects&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&amp;fontColor=00C9A7&amp;fontSize=30&amp;fontAlignY=50&amp;height=70&amp;text=%F0%9F%8E%AF%20Featured%20Projects&amp;animation=twinkling" />
 </div>
 
 <table width="100%">
@@ -269,7 +269,7 @@ Hobby:        collecting gadgets & knowledge
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00C9A7&fontSize=30&fontAlignY=50&height=70&text=%F0%9F%A4%96%20AI%20Daily%20DevOps%20Tip&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&amp;fontColor=00C9A7&amp;fontSize=30&amp;fontAlignY=50&amp;height=70&amp;text=%F0%9F%A4%96%20AI%20Daily%20DevOps%20Tip&amp;animation=twinkling" />
 </div>
 
 <div align="center">
@@ -282,7 +282,7 @@ Hobby:        collecting gadgets & knowledge
 > 📖 *Quote of the day:* "It is not because things are difficult that we do not dare; it is because we do not dare that things are difficult." — *Seneca*
 <!-- TECH-TIP-END -->
 
-<img src="https://img.shields.io/badge/Auto--Updated-Daily%20via%20GitHub%20Actions-8A2BE2?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Auto--Updated-Daily%20via%20GitHub%20Actions-8A2BE2?style=for-the-badge&amp;labelColor=0D1117" />
 
 </div>
 
@@ -293,21 +293,21 @@ Hobby:        collecting gadgets & knowledge
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00C9A7&fontSize=30&fontAlignY=50&height=70&text=%F0%9F%A4%9D%20Let%27s%20Connect&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&amp;fontColor=00C9A7&amp;fontSize=30&amp;fontAlignY=50&amp;height=70&amp;text=%F0%9F%A4%9D%20Let%27s%20Connect&amp;animation=twinkling" />
 </div>
 
 <div align="center">
 
 <a href="https://linkedin.com/in/theAbhijayChauhan" title="LinkedIn">
-  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="60" />
+  <img src="https://skillicons.dev/icons?i=linkedin&amp;theme=dark" width="60" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/theAbhijayChauhan" title="GitHub">
-  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="60" />
+  <img src="https://skillicons.dev/icons?i=github&amp;theme=dark" width="60" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:abhijaychauhan.dev@gmail.com" title="Email">
-  <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="60" />
+  <img src="https://skillicons.dev/icons?i=gmail&amp;theme=dark" width="60" />
 </a>
 
 <br><br>
@@ -320,4 +320,4 @@ Hobby:        collecting gadgets & knowledge
 <!--      DARK WAVING FOOTER — black bg matching header            -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0A0A1A,100:000000&height=140&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:000000,50:0A0A1A,100:000000&amp;height=140&amp;section=footer&amp;animation=twinkling" width="100%"/>
