@@ -13,28 +13,28 @@
 
 ```text
 AbhijayChauhan / README.md
-┌────────────────────────────────────────────────────────────────────────────────────────┐
-│  AbhijayChauhan@DevOps --------------------------------------------------------------  │
-│  . OS: ........................................... Windows 11, Linux (Ubuntu/Debian)   │
-│  . Status: ....................................... BTech CSE (Cloud & ML, 3rd Year)    │
-│  . Target Role: .................................. DevOps Engineer                    │
-│  . Primary Focus: ................................ CI/CD, Cloud & Automation           │
-│  . Tools & Tech: ................................. Docker, K8s, Jenkins, Actions, Tform│
-│  . Cloud Platforms: .............................. AWS, GCP                            │
-│  . Languages.Dev: ................................ Python, Bash, C++, SQL              │
-│  . Languages.Web/Data: ........................... HTML, CSS, JSON, YAML               │
-│  . Hobbies: ...................................... Gadgets, Knowledge, Automation       │
-│  . Philosophy: ................................... Clean Pipelines > Manual Ops        │
-│                                                                                        │
-│  - Contact Information --------------------------------------------------------------  │
-│  . Email: ........................................ abhijaychauhan.dev@gmail.com        │
-│  . LinkedIn: ..................................... linkedin.com/in/theAbhijayChauhan   │
-│  . GitHub: ....................................... github.com/theAbhijayChauhan         │
-│                                                                                        │
-│  - Current Sprint -------------------------------------------------------------------  │
-│  . Learning: ..................................... Kubernetes, Terraform, System Design│
-│  . Building: ..................................... CI/CD Pipelines & Cloud-ML Apps     │
-└────────────────────────────────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────────────────────────────┐
+│  AbhijayChauhan@DevOps ------------------------------------------------------------------│
+│  . OS: ........................................... Windows 11, Linux (Ubuntu)            │
+│  . Status: ....................................... BTech CSE (Cloud & ML, 4th Year)      │
+│  . Target Role: .................................. DevOps Engineer / Cloud Engineer      │
+│  . Primary Focus: ................................ CI/CD, Cloud & Automation             │
+│  . Tools & Tech: ................................. Docker, K8s, Jenkins, Actions, Tform  │
+│  . Cloud Platforms: .............................. AWS, GCP, Azure                       │
+│  . Languages.Dev: ................................ Python, Bash, C++, SQL                │
+│  . Languages.Web/Data: ........................... HTML, CSS, JSON, YAML                 │
+│  . Hobbies: ...................................... Gadgets, Knowledge, Automation        │
+│  . Philosophy: ................................... Clean Pipelines > Manual Ops          │
+│                                                                                          │
+│  - Contact Information ------------------------------------------------------------------│
+│  . Email: ........................................ abhijaychauhan.dev@gmail.com          │
+│  . LinkedIn: ..................................... linkedin.com/in/theabhijaychauhan     │
+│  . GitHub: ....................................... github.com/theAbhijayChauhan          │
+│                                                                                          │
+│  - Current Sprint -----------------------------------------------------------------------│
+│  . Learning: ..................................... Kubernetes, Terraform, System Design  │
+│  . Building: ..................................... CI/CD Pipelines & Cloud-ML Apps       │
+└──────────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
 <div align="center">
