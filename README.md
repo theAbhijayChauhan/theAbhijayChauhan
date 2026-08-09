@@ -275,11 +275,11 @@ Hobby:        collecting gadgets & knowledge
 <div align="center">
 
 <!-- TECH-TIP-START -->
-> 💡 **Daily DevOps Tip** `August 08, 2026`
+> 💡 **Daily DevOps Tip** `August 09, 2026`
 >
-> Canary releases let you test new code on 5-10% of real traffic before full rollout. Use Kubernetes traffic splitting or AWS weighted routing to implement this safely.
+> Tag every cloud resource with `env`, `team`, `project`, and `cost-center` labels. Without tagging, cloud cost attribution becomes impossible to debug at scale.
 >
-> 📖 *Quote of the day:* "The road to success and the road to failure are almost exactly the same." — *Colin R. Davis*
+> 📖 *Quote of the day:* "Deeds will not be less valiant because they are upraised." — *J.R.R. Tolkien*
 <!-- TECH-TIP-END -->
 
 <img src="https://img.shields.io/badge/Auto--Updated-Daily%20via%20GitHub%20Actions-8A2BE2?style=for-the-badge&amp;labelColor=0D1117" />
