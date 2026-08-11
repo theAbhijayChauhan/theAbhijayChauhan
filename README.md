@@ -275,9 +275,11 @@ Hobby:        collecting gadgets & knowledge
 <div align="center">
 
 <!-- TECH-TIP-START -->
-> 💡 **Daily DevOps Tip** `August 10, 2026`
+> 💡 **Daily DevOps Tip** `August 11, 2026`
 >
-> Use `helm diff` plugin before every `helm upgrade`. It shows exactly what will change in your cluster — treat it like `terraform plan` for Kubernetes.
+> Log aggregation is non-negotiable in production. Tools like ELK Stack, Loki + Grafana, or AWS CloudWatch Logs let you search across all services from one place.
+>
+> 📖 *Quote of the day:* "Some changes look negative on the surface but you will soon realize that space is being created in your life for something new to emerge." — *Eckhart Tolle*
 <!-- TECH-TIP-END -->
 
 <img src="https://img.shields.io/badge/Auto--Updated-Daily%20via%20GitHub%20Actions-8A2BE2?style=for-the-badge&amp;labelColor=0D1117" />
