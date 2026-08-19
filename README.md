@@ -275,11 +275,11 @@ Hobby:        collecting gadgets & knowledge
 <div align="center">
 
 <!-- TECH-TIP-START -->
-> 💡 **Daily DevOps Tip** `August 18, 2026`
+> 💡 **Daily DevOps Tip** `August 19, 2026`
 >
-> Use `kubectl rollout undo` to instantly revert a bad deployment. Pair it with `--to-revision=N` to jump back to any specific historical version.
+> Jenkins pipelines should be written as `Jenkinsfile` in your repo — not configured through the UI. This makes your CI/CD infrastructure as code, fully reviewable and versioned.
 >
-> 📖 *Quote of the day:* "The traveler sees what he sees. The tourist sees what he has come to see." — *Gilbert Chesterton*
+> 📖 *Quote of the day:* "Life is a process. We are a process. The universe is a process." — *Anne Wilson Schaef*
 <!-- TECH-TIP-END -->
 
 <img src="https://img.shields.io/badge/Auto--Updated-Daily%20via%20GitHub%20Actions-8A2BE2?style=for-the-badge&amp;labelColor=0D1117" />
