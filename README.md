@@ -275,11 +275,11 @@ Hobby:        collecting gadgets & knowledge
 <div align="center">
 
 <!-- TECH-TIP-START -->
-> 💡 **Daily DevOps Tip** `August 20, 2026`
+> 💡 **Daily DevOps Tip** `August 21, 2026`
 >
-> In Terraform, always run `terraform plan` and review the diff before `terraform apply`. Automation without review in production IaC is a recipe for disaster.
+> AWS IAM: Apply the principle of least privilege. Never use the root account for daily tasks — create IAM roles with scoped permissions and rotate access keys regularly.
 >
-> 📖 *Quote of the day:* "Our stories may be singular, but our destination is shared." — *Barack Obama*
+> 📖 *Quote of the day:* "A dream you dream alone is only a dream. A dream you dream together is reality." — *Yoko Ono*
 <!-- TECH-TIP-END -->
 
 <img src="https://img.shields.io/badge/Auto--Updated-Daily%20via%20GitHub%20Actions-8A2BE2?style=for-the-badge&amp;labelColor=0D1117" />
