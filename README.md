@@ -275,11 +275,11 @@ Hobby:        collecting gadgets & knowledge
 <div align="center">
 
 <!-- TECH-TIP-START -->
-> 💡 **Daily DevOps Tip** `August 21, 2026`
+> 💡 **Daily DevOps Tip** `August 22, 2026`
 >
-> AWS IAM: Apply the principle of least privilege. Never use the root account for daily tasks — create IAM roles with scoped permissions and rotate access keys regularly.
+> Use `docker compose` for local dev environments that mirror production. Define services, networks, and volumes declaratively so the entire stack spins up with one command.
 >
-> 📖 *Quote of the day:* "A dream you dream alone is only a dream. A dream you dream together is reality." — *Yoko Ono*
+> 📖 *Quote of the day:* "It is the mark of an educated mind to be able to entertain a thought without accepting it." — *Aristotle*
 <!-- TECH-TIP-END -->
 
 <img src="https://img.shields.io/badge/Auto--Updated-Daily%20via%20GitHub%20Actions-8A2BE2?style=for-the-badge&amp;labelColor=0D1117" />
