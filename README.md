@@ -44,6 +44,7 @@ AbhijayChauhan / README.md
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=22&amp;duration=2000&amp;pause=700&amp;color=00C9A7&amp;center=true&amp;vCenter=true&amp;width=720&amp;lines=Shipping+CI%2FCD+Pipelines+to+Production;Cloud+Infrastructure+%26+Automation+Wizard;Docker+%2B+Kubernetes+Enthusiast;Python+%2B+DevOps+Tooling+Craftsman;Clean+Pipelines+%3E+Manual+Ops;AWS+%7C+GCP+%7C+Jenkins+%7C+Terraform" alt="Typing SVG" />
 
+
 <!-- <br><br> -->
 
 <!-- STATUS BADGES -->
