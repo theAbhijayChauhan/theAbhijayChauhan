@@ -276,11 +276,11 @@ Hobby:        collecting gadgets & knowledge
 <div align="center">
 
 <!-- TECH-TIP-START -->
-> 💡 **Daily DevOps Tip** `August 22, 2026`
+> 💡 **Daily DevOps Tip** `August 23, 2026`
 >
-> Use `docker compose` for local dev environments that mirror production. Define services, networks, and volumes declaratively so the entire stack spins up with one command.
+> GCP Cloud Run auto-scales to zero when idle — perfect for infrequent workloads. You only pay for actual request processing time, not idle compute.
 >
-> 📖 *Quote of the day:* "It is the mark of an educated mind to be able to entertain a thought without accepting it." — *Aristotle*
+> 📖 *Quote of the day:* "Mistake is a mistake only if you make it twice." — *Robin Sharma*
 <!-- TECH-TIP-END -->
 
 <img src="https://img.shields.io/badge/Auto--Updated-Daily%20via%20GitHub%20Actions-8A2BE2?style=for-the-badge&amp;labelColor=0D1117" />
