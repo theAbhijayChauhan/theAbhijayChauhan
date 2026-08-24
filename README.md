@@ -276,11 +276,11 @@ Hobby:        collecting gadgets & knowledge
 <div align="center">
 
 <!-- TECH-TIP-START -->
-> 💡 **Daily DevOps Tip** `August 23, 2026`
+> 💡 **Daily DevOps Tip** `August 24, 2026`
 >
-> GCP Cloud Run auto-scales to zero when idle — perfect for infrequent workloads. You only pay for actual request processing time, not idle compute.
+> Set up `pre-commit` hooks in your repos to auto-lint, format, and run security scans before every commit. Catch issues locally before they ever hit CI.
 >
-> 📖 *Quote of the day:* "Mistake is a mistake only if you make it twice." — *Robin Sharma*
+> 📖 *Quote of the day:* "Don't let the silly little dramas of each day get you down. For you are here to do great things." — *Ralph Marston*
 <!-- TECH-TIP-END -->
 
 <img src="https://img.shields.io/badge/Auto--Updated-Daily%20via%20GitHub%20Actions-8A2BE2?style=for-the-badge&amp;labelColor=0D1117" />
