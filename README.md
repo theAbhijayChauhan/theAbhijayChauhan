@@ -276,11 +276,11 @@ Hobby:        collecting gadgets & knowledge
 <div align="center">
 
 <!-- TECH-TIP-START -->
-> 💡 **Daily DevOps Tip** `August 27, 2026`
+> 💡 **Daily DevOps Tip** `August 28, 2026`
 >
-> In GitHub Actions, use `concurrency` groups to cancel in-progress workflow runs when a new commit is pushed. Prevents queued pipelines from piling up on every push.
+> Python virtual environments (`venv`) should always be excluded from Docker images. Use multi-stage builds and install directly into the final image layer.
 >
-> 📖 *Quote of the day:* "Believe you can and you're halfway there." — *Colin R. Davis*
+> 📖 *Quote of the day:* "Yesterday is but today's memory, tomorrow is today's dream." — *Kahlil Gibran*
 <!-- TECH-TIP-END -->
 
 <img src="https://img.shields.io/badge/Auto--Updated-Daily%20via%20GitHub%20Actions-8A2BE2?style=for-the-badge&amp;labelColor=0D1117" />
