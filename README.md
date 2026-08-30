@@ -276,11 +276,11 @@ Hobby:        collecting gadgets & knowledge
 <div align="center">
 
 <!-- TECH-TIP-START -->
-> 💡 **Daily DevOps Tip** `August 29, 2026`
+> 💡 **Daily DevOps Tip** `August 30, 2026`
 >
-> Monitor your Kubernetes cluster with resource quotas at the namespace level. It prevents any single team or app from consuming all cluster resources.
+> Use `bash -euo pipefail` at the top of every shell script in CI. `-e` exits on error, `-u` errors on unset vars, `-o pipefail` catches failures in piped commands.
 >
-> 📖 *Quote of the day:* "Life comes at us in waves. We can't predict or control those waves, but we can learn to surf." — *Dan Millman*
+> 📖 *Quote of the day:* "There is no medicine like hope, no incentive so great, and no tonic so powerful as expectation of something tomorrow." — *Orison Swett Marden*
 <!-- TECH-TIP-END -->
 
 <img src="https://img.shields.io/badge/Auto--Updated-Daily%20via%20GitHub%20Actions-8A2BE2?style=for-the-badge&amp;labelColor=0D1117" />
