@@ -276,11 +276,11 @@ Hobby:        collecting gadgets & knowledge
 <div align="center">
 
 <!-- TECH-TIP-START -->
-> 💡 **Daily DevOps Tip** `September 03, 2026`
+> 💡 **Daily DevOps Tip** `September 04, 2026`
 >
-> Tag every cloud resource with `env`, `team`, `project`, and `cost-center` labels. Without tagging, cloud cost attribution becomes impossible to debug at scale.
+> Use `helm diff` plugin before every `helm upgrade`. It shows exactly what will change in your cluster — treat it like `terraform plan` for Kubernetes.
 >
-> 📖 *Quote of the day:* "There is no failure except in no longer trying. There is no defeat except from within, no insurmountable barrier except our own inherent weakness of purpose." — *Elbert Hubbard*
+> 📖 *Quote of the day:* "Even if our home burns down we can rebuild it. But the things that we got for nothing, we can never replace." — *Earl Nightingale*
 <!-- TECH-TIP-END -->
 
 <img src="https://img.shields.io/badge/Auto--Updated-Daily%20via%20GitHub%20Actions-8A2BE2?style=for-the-badge&amp;labelColor=0D1117" />
