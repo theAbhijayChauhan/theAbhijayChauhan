@@ -276,9 +276,11 @@ Hobby:        collecting gadgets & knowledge
 <div align="center">
 
 <!-- TECH-TIP-START -->
-> 💡 **Daily DevOps Tip** `September 20, 2026`
+> 💡 **Daily DevOps Tip** `September 21, 2026`
 >
-> Terraform modules are your best friend for DRY infrastructure. Extract repeated patterns (VPCs, EKS clusters) into reusable modules with clean variable interfaces.
+> In GitHub Actions, use `concurrency` groups to cancel in-progress workflow runs when a new commit is pushed. Prevents queued pipelines from piling up on every push.
+>
+> 📖 *Quote of the day:* "Always show more kindness than seems necessary because the person receiving it needs it more than you will ever know." — *Colin Powell*
 <!-- TECH-TIP-END -->
 
 <img src="https://img.shields.io/badge/Auto--Updated-Daily%20via%20GitHub%20Actions-8A2BE2?style=for-the-badge&amp;labelColor=0D1117" />
