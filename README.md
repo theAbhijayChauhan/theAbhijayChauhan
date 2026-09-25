@@ -276,11 +276,11 @@ Hobby:        collecting gadgets & knowledge
 <div align="center">
 
 <!-- TECH-TIP-START -->
-> 💡 **Daily DevOps Tip** `September 24, 2026`
+> 💡 **Daily DevOps Tip** `September 25, 2026`
 >
-> Use `bash -euo pipefail` at the top of every shell script in CI. `-e` exits on error, `-u` errors on unset vars, `-o pipefail` catches failures in piped commands.
+> Blue-green deployments eliminate downtime: run two identical environments, switch traffic instantly between them, and keep the old one as an instant rollback.
 >
-> 📖 *Quote of the day:* "No kind action ever stops with itself. One kind action leads to another. Good example is followed." — *Amelia Earhart*
+> 📖 *Quote of the day:* "The soul is neither born, and nor does it die." — *Bhagavad Gita*
 <!-- TECH-TIP-END -->
 
 <img src="https://img.shields.io/badge/Auto--Updated-Daily%20via%20GitHub%20Actions-8A2BE2?style=for-the-badge&amp;labelColor=0D1117" />
