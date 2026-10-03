@@ -276,11 +276,11 @@ Hobby:        collecting gadgets & knowledge
 <div align="center">
 
 <!-- TECH-TIP-START -->
-> 💡 **Daily DevOps Tip** `October 02, 2026`
+> 💡 **Daily DevOps Tip** `October 03, 2026`
 >
-> Always version-control your Terraform state configurations. Use remote backends like AWS S3 + DynamoDB for state locking — it prevents race conditions in team environments.
+> Use multi-stage Docker builds to keep your final images lean. Only copy the compiled artifact, not the full build toolchain — slashes image size by 60–80%.
 >
-> 📖 *Quote of the day:* "Help others for all the times that you have been ignored. Be kind to others, for all the times that you have been scorned." — *Ming-Dao Deng*
+> 📖 *Quote of the day:* "The traveler sees what he sees. The tourist sees what he has come to see." — *Gilbert Chesterton*
 <!-- TECH-TIP-END -->
 
 <img src="https://img.shields.io/badge/Auto--Updated-Daily%20via%20GitHub%20Actions-8A2BE2?style=for-the-badge&amp;labelColor=0D1117" />
