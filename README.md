@@ -276,11 +276,11 @@ Hobby:        collecting gadgets & knowledge
 <div align="center">
 
 <!-- TECH-TIP-START -->
-> 💡 **Daily DevOps Tip** `October 03, 2026`
+> 💡 **Daily DevOps Tip** `October 04, 2026`
 >
-> Use multi-stage Docker builds to keep your final images lean. Only copy the compiled artifact, not the full build toolchain — slashes image size by 60–80%.
+> In Kubernetes, set resource `requests` and `limits` for every container. Without them, a single runaway pod can starve the entire node and cause cascading failures.
 >
-> 📖 *Quote of the day:* "The traveler sees what he sees. The tourist sees what he has come to see." — *Gilbert Chesterton*
+> 📖 *Quote of the day:* "Inspire yourself to be great. Being good isn't good enough." — *Gurbaksh Chahal*
 <!-- TECH-TIP-END -->
 
 <img src="https://img.shields.io/badge/Auto--Updated-Daily%20via%20GitHub%20Actions-8A2BE2?style=for-the-badge&amp;labelColor=0D1117" />
