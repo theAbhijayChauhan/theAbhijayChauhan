@@ -276,11 +276,11 @@ Hobby:        collecting gadgets & knowledge
 <div align="center">
 
 <!-- TECH-TIP-START -->
-> 💡 **Daily DevOps Tip** `October 04, 2026`
+> 💡 **Daily DevOps Tip** `October 05, 2026`
 >
-> In Kubernetes, set resource `requests` and `limits` for every container. Without them, a single runaway pod can starve the entire node and cause cascading failures.
+> GitHub Actions secrets are encrypted at rest. Never echo them in logs — even `echo $SECRET` in CI can leak partial values through log formatting bugs.
 >
-> 📖 *Quote of the day:* "Inspire yourself to be great. Being good isn't good enough." — *Gurbaksh Chahal*
+> 📖 *Quote of the day:* "When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way." — *Wayne Dyer*
 <!-- TECH-TIP-END -->
 
 <img src="https://img.shields.io/badge/Auto--Updated-Daily%20via%20GitHub%20Actions-8A2BE2?style=for-the-badge&amp;labelColor=0D1117" />
