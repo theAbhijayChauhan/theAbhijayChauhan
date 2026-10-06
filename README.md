@@ -276,11 +276,11 @@ Hobby:        collecting gadgets & knowledge
 <div align="center">
 
 <!-- TECH-TIP-START -->
-> 💡 **Daily DevOps Tip** `October 05, 2026`
+> 💡 **Daily DevOps Tip** `October 06, 2026`
 >
-> GitHub Actions secrets are encrypted at rest. Never echo them in logs — even `echo $SECRET` in CI can leak partial values through log formatting bugs.
+> Always pin your Docker base images to a specific digest (`sha256:...`), not just a tag. Tags are mutable; digests are immutable — critical for reproducible builds.
 >
-> 📖 *Quote of the day:* "When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way." — *Wayne Dyer*
+> 📖 *Quote of the day:* "Success is achieved and maintained by those who try and keep trying." — *W. Clement Stone*
 <!-- TECH-TIP-END -->
 
 <img src="https://img.shields.io/badge/Auto--Updated-Daily%20via%20GitHub%20Actions-8A2BE2?style=for-the-badge&amp;labelColor=0D1117" />
