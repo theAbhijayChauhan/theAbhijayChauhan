@@ -276,11 +276,11 @@ Hobby:        collecting gadgets & knowledge
 <div align="center">
 
 <!-- TECH-TIP-START -->
-> 💡 **Daily DevOps Tip** `October 06, 2026`
+> 💡 **Daily DevOps Tip** `October 07, 2026`
 >
-> Always pin your Docker base images to a specific digest (`sha256:...`), not just a tag. Tags are mutable; digests are immutable — critical for reproducible builds.
+> Use `kubectl rollout undo` to instantly revert a bad deployment. Pair it with `--to-revision=N` to jump back to any specific historical version.
 >
-> 📖 *Quote of the day:* "Success is achieved and maintained by those who try and keep trying." — *W. Clement Stone*
+> 📖 *Quote of the day:* "The best fighter is never angry." — *Lao Tzu*
 <!-- TECH-TIP-END -->
 
 <img src="https://img.shields.io/badge/Auto--Updated-Daily%20via%20GitHub%20Actions-8A2BE2?style=for-the-badge&amp;labelColor=0D1117" />
