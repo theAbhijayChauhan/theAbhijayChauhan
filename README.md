@@ -276,11 +276,11 @@ Hobby:        collecting gadgets & knowledge
 <div align="center">
 
 <!-- TECH-TIP-START -->
-> 💡 **Daily DevOps Tip** `October 08, 2026`
+> 💡 **Daily DevOps Tip** `October 09, 2026`
 >
-> Jenkins pipelines should be written as `Jenkinsfile` in your repo — not configured through the UI. This makes your CI/CD infrastructure as code, fully reviewable and versioned.
+> In Terraform, always run `terraform plan` and review the diff before `terraform apply`. Automation without review in production IaC is a recipe for disaster.
 >
-> 📖 *Quote of the day:* "It's beautiful to be alone. To be alone does not mean to be lonely. It means the mind is not influenced and contaminated by society." — *Jiddu Krishnamurti*
+> 📖 *Quote of the day:* "It is amazing what you can accomplish if you do not care who gets the credit." — *Harry S. Truman*
 <!-- TECH-TIP-END -->
 
 <img src="https://img.shields.io/badge/Auto--Updated-Daily%20via%20GitHub%20Actions-8A2BE2?style=for-the-badge&amp;labelColor=0D1117" />
