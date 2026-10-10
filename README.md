@@ -276,11 +276,11 @@ Hobby:        collecting gadgets & knowledge
 <div align="center">
 
 <!-- TECH-TIP-START -->
-> 💡 **Daily DevOps Tip** `October 09, 2026`
+> 💡 **Daily DevOps Tip** `October 10, 2026`
 >
-> In Terraform, always run `terraform plan` and review the diff before `terraform apply`. Automation without review in production IaC is a recipe for disaster.
+> AWS IAM: Apply the principle of least privilege. Never use the root account for daily tasks — create IAM roles with scoped permissions and rotate access keys regularly.
 >
-> 📖 *Quote of the day:* "It is amazing what you can accomplish if you do not care who gets the credit." — *Harry S. Truman*
+> 📖 *Quote of the day:* "Many people will walk in and out of your life, but only true friends will leave footprints in your heart." — *Eleanor Roosevelt*
 <!-- TECH-TIP-END -->
 
 <img src="https://img.shields.io/badge/Auto--Updated-Daily%20via%20GitHub%20Actions-8A2BE2?style=for-the-badge&amp;labelColor=0D1117" />
