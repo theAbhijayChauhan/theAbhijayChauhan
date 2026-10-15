@@ -276,11 +276,11 @@ Hobby:        collecting gadgets & knowledge
 <div align="center">
 
 <!-- TECH-TIP-START -->
-> 💡 **Daily DevOps Tip** `October 14, 2026`
+> 💡 **Daily DevOps Tip** `October 15, 2026`
 >
-> Use Kubernetes `readinessProbe` and `livenessProbe` for all production pods. Without them, traffic gets routed to pods that aren't ready, causing cascading 502 errors.
+> Terraform modules are your best friend for DRY infrastructure. Extract repeated patterns (VPCs, EKS clusters) into reusable modules with clean variable interfaces.
 >
-> 📖 *Quote of the day:* "Do the difficult things while they are easy and do the great things while they are small." — *Lao Tzu*
+> 📖 *Quote of the day:* "Failing is another stepping stone to greatness." — *Oprah Winfrey*
 <!-- TECH-TIP-END -->
 
 <img src="https://img.shields.io/badge/Auto--Updated-Daily%20via%20GitHub%20Actions-8A2BE2?style=for-the-badge&amp;labelColor=0D1117" />
