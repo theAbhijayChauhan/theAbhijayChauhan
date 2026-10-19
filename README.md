@@ -276,11 +276,9 @@ Hobby:        collecting gadgets & knowledge
 <div align="center">
 
 <!-- TECH-TIP-START -->
-> 💡 **Daily DevOps Tip** `October 18, 2026`
+> 💡 **Daily DevOps Tip** `October 19, 2026`
 >
-> Monitor your Kubernetes cluster with resource quotas at the namespace level. It prevents any single team or app from consuming all cluster resources.
->
-> 📖 *Quote of the day:* "Vision is the art of seeing things invisible." — *Jonathan Swift*
+> Use `bash -euo pipefail` at the top of every shell script in CI. `-e` exits on error, `-u` errors on unset vars, `-o pipefail` catches failures in piped commands.
 <!-- TECH-TIP-END -->
 
 <img src="https://img.shields.io/badge/Auto--Updated-Daily%20via%20GitHub%20Actions-8A2BE2?style=for-the-badge&amp;labelColor=0D1117" />
