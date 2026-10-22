@@ -276,11 +276,11 @@ Hobby:        collecting gadgets & knowledge
 <div align="center">
 
 <!-- TECH-TIP-START -->
-> 💡 **Daily DevOps Tip** `October 21, 2026`
+> 💡 **Daily DevOps Tip** `October 22, 2026`
 >
-> Always use `.dockerignore` in your Docker builds. Excluding `node_modules`, `.git`, and test files can reduce build context size by 90% and dramatically speed up builds.
+> Canary releases let you test new code on 5-10% of real traffic before full rollout. Use Kubernetes traffic splitting or AWS weighted routing to implement this safely.
 >
-> 📖 *Quote of the day:* "Truth is exact correspondence with reality." — *Paramahansa Yogananda*
+> 📖 *Quote of the day:* "Little minds have little worries, big minds have no time for worries." — *Ralph Waldo Emerson*
 <!-- TECH-TIP-END -->
 
 <img src="https://img.shields.io/badge/Auto--Updated-Daily%20via%20GitHub%20Actions-8A2BE2?style=for-the-badge&amp;labelColor=0D1117" />
