@@ -276,11 +276,11 @@ Hobby:        collecting gadgets & knowledge
 <div align="center">
 
 <!-- TECH-TIP-START -->
-> 💡 **Daily DevOps Tip** `October 22, 2026`
+> 💡 **Daily DevOps Tip** `October 23, 2026`
 >
-> Canary releases let you test new code on 5-10% of real traffic before full rollout. Use Kubernetes traffic splitting or AWS weighted routing to implement this safely.
+> Tag every cloud resource with `env`, `team`, `project`, and `cost-center` labels. Without tagging, cloud cost attribution becomes impossible to debug at scale.
 >
-> 📖 *Quote of the day:* "Little minds have little worries, big minds have no time for worries." — *Ralph Waldo Emerson*
+> 📖 *Quote of the day:* "There are only two ways to live your life. One is as if nothing is a miracle. The other is as if everything is a miracle." — *Albert Einstein*
 <!-- TECH-TIP-END -->
 
 <img src="https://img.shields.io/badge/Auto--Updated-Daily%20via%20GitHub%20Actions-8A2BE2?style=for-the-badge&amp;labelColor=0D1117" />
