@@ -276,11 +276,11 @@ Hobby:        collecting gadgets & knowledge
 <div align="center">
 
 <!-- TECH-TIP-START -->
-> 💡 **Daily DevOps Tip** `October 31, 2026`
+> 💡 **Daily DevOps Tip** `November 01, 2026`
 >
-> Always pin your Docker base images to a specific digest (`sha256:...`), not just a tag. Tags are mutable; digests are immutable — critical for reproducible builds.
+> Use `kubectl rollout undo` to instantly revert a bad deployment. Pair it with `--to-revision=N` to jump back to any specific historical version.
 >
-> 📖 *Quote of the day:* "If you want to achieve greatness stop asking for permission." — *Unknown*
+> 📖 *Quote of the day:* "Genius, in truth, means little more than the faculty of perceiving in an unhabitual way." — *William James*
 <!-- TECH-TIP-END -->
 
 <img src="https://img.shields.io/badge/Auto--Updated-Daily%20via%20GitHub%20Actions-8A2BE2?style=for-the-badge&amp;labelColor=0D1117" />
