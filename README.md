@@ -276,11 +276,9 @@ Hobby:        collecting gadgets & knowledge
 <div align="center">
 
 <!-- TECH-TIP-START -->
-> 💡 **Daily DevOps Tip** `November 04, 2026`
+> 💡 **Daily DevOps Tip** `November 05, 2026`
 >
-> AWS IAM: Apply the principle of least privilege. Never use the root account for daily tasks — create IAM roles with scoped permissions and rotate access keys regularly.
->
-> 📖 *Quote of the day:* "To be heroic is to be courageous enough to die for something; to be inspirational is to be crazy enough to live a little." — *Criss Jami*
+> Use `docker compose` for local dev environments that mirror production. Define services, networks, and volumes declaratively so the entire stack spins up with one command.
 <!-- TECH-TIP-END -->
 
 <img src="https://img.shields.io/badge/Auto--Updated-Daily%20via%20GitHub%20Actions-8A2BE2?style=for-the-badge&amp;labelColor=0D1117" />
