@@ -276,11 +276,11 @@ Hobby:        collecting gadgets & knowledge
 <div align="center">
 
 <!-- TECH-TIP-START -->
-> 💡 **Daily DevOps Tip** `November 07, 2026`
+> 💡 **Daily DevOps Tip** `November 08, 2026`
 >
-> Set up `pre-commit` hooks in your repos to auto-lint, format, and run security scans before every commit. Catch issues locally before they ever hit CI.
+> Use Kubernetes `readinessProbe` and `livenessProbe` for all production pods. Without them, traffic gets routed to pods that aren't ready, causing cascading 502 errors.
 >
-> 📖 *Quote of the day:* "Imagination means nothing without doing." — *Charlie Chaplin*
+> 📖 *Quote of the day:* "Take into account that great love and great achievements involve great risk." — *Dalai Lama*
 <!-- TECH-TIP-END -->
 
 <img src="https://img.shields.io/badge/Auto--Updated-Daily%20via%20GitHub%20Actions-8A2BE2?style=for-the-badge&amp;labelColor=0D1117" />
