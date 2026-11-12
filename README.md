@@ -276,11 +276,11 @@ Hobby:        collecting gadgets & knowledge
 <div align="center">
 
 <!-- TECH-TIP-START -->
-> 💡 **Daily DevOps Tip** `November 11, 2026`
+> 💡 **Daily DevOps Tip** `November 12, 2026`
 >
-> Python virtual environments (`venv`) should always be excluded from Docker images. Use multi-stage builds and install directly into the final image layer.
+> Monitor your Kubernetes cluster with resource quotas at the namespace level. It prevents any single team or app from consuming all cluster resources.
 >
-> 📖 *Quote of the day:* "The only way to 'find out if it will work out' is to do it." — *Simon Sinek*
+> 📖 *Quote of the day:* "If you don't like something, change it. If you can't change it, change your attitude." — *Maya Angelou*
 <!-- TECH-TIP-END -->
 
 <img src="https://img.shields.io/badge/Auto--Updated-Daily%20via%20GitHub%20Actions-8A2BE2?style=for-the-badge&amp;labelColor=0D1117" />
