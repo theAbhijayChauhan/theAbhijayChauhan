@@ -276,11 +276,11 @@ Hobby:        collecting gadgets & knowledge
 <div align="center">
 
 <!-- TECH-TIP-START -->
-> 💡 **Daily DevOps Tip** `November 13, 2026`
+> 💡 **Daily DevOps Tip** `November 14, 2026`
 >
-> Use `bash -euo pipefail` at the top of every shell script in CI. `-e` exits on error, `-u` errors on unset vars, `-o pipefail` catches failures in piped commands.
+> Blue-green deployments eliminate downtime: run two identical environments, switch traffic instantly between them, and keep the old one as an instant rollback.
 >
-> 📖 *Quote of the day:* "When people are free to do as they please, they usually imitate each other." — *Eric Hoffer*
+> 📖 *Quote of the day:* "Believe nothing you hear, and only one half that you see." — *Edgar Allan Poe*
 <!-- TECH-TIP-END -->
 
 <img src="https://img.shields.io/badge/Auto--Updated-Daily%20via%20GitHub%20Actions-8A2BE2?style=for-the-badge&amp;labelColor=0D1117" />
