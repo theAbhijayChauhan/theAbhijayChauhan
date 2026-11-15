@@ -276,11 +276,11 @@ Hobby:        collecting gadgets & knowledge
 <div align="center">
 
 <!-- TECH-TIP-START -->
-> 💡 **Daily DevOps Tip** `November 14, 2026`
+> 💡 **Daily DevOps Tip** `November 15, 2026`
 >
-> Blue-green deployments eliminate downtime: run two identical environments, switch traffic instantly between them, and keep the old one as an instant rollback.
+> Always use `.dockerignore` in your Docker builds. Excluding `node_modules`, `.git`, and test files can reduce build context size by 90% and dramatically speed up builds.
 >
-> 📖 *Quote of the day:* "Believe nothing you hear, and only one half that you see." — *Edgar Allan Poe*
+> 📖 *Quote of the day:* "Only the hand that erases can write the true thing." — *Meister Eckhart*
 <!-- TECH-TIP-END -->
 
 <img src="https://img.shields.io/badge/Auto--Updated-Daily%20via%20GitHub%20Actions-8A2BE2?style=for-the-badge&amp;labelColor=0D1117" />
