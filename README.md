@@ -276,11 +276,11 @@ Hobby:        collecting gadgets & knowledge
 <div align="center">
 
 <!-- TECH-TIP-START -->
-> 💡 **Daily DevOps Tip** `November 20, 2026`
+> 💡 **Daily DevOps Tip** `November 21, 2026`
 >
-> Use GitHub branch protection rules: require PR reviews, passing CI checks, and signed commits before merging to `main`. Never push directly to production branches.
+> Always version-control your Terraform state configurations. Use remote backends like AWS S3 + DynamoDB for state locking — it prevents race conditions in team environments.
 >
-> 📖 *Quote of the day:* "Everyone faces challenges in life. It's a matter of how you learn to overcome them and using them to your advantage." — *Celestine Chua*
+> 📖 *Quote of the day:* "Tension is who you think you should be. Relaxation is who you are." — *Chinese Proverb*
 <!-- TECH-TIP-END -->
 
 <img src="https://img.shields.io/badge/Auto--Updated-Daily%20via%20GitHub%20Actions-8A2BE2?style=for-the-badge&amp;labelColor=0D1117" />
