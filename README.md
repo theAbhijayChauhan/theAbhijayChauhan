@@ -276,11 +276,9 @@ Hobby:        collecting gadgets & knowledge
 <div align="center">
 
 <!-- TECH-TIP-START -->
-> 💡 **Daily DevOps Tip** `November 24, 2026`
+> 💡 **Daily DevOps Tip** `November 25, 2026`
 >
-> GitHub Actions secrets are encrypted at rest. Never echo them in logs — even `echo $SECRET` in CI can leak partial values through log formatting bugs.
->
-> 📖 *Quote of the day:* "If you change the way you look at things, the things you look at change." — *Wayne Dyer*
+> Always pin your Docker base images to a specific digest (`sha256:...`), not just a tag. Tags are mutable; digests are immutable — critical for reproducible builds.
 <!-- TECH-TIP-END -->
 
 <img src="https://img.shields.io/badge/Auto--Updated-Daily%20via%20GitHub%20Actions-8A2BE2?style=for-the-badge&amp;labelColor=0D1117" />
